@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+#nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 15px;
+}
+
+.navbar {
+    background-color: white;
+
+}
+
+.navbar a {
+    color: white;
+}
+
+.navbar-brand {
+    background-color: brown;
+    border-radius: 50%;
+    font-weight: 600;
+    font-size: 30px;
+    padding: 10px;
+    color: brown;
+}
+
+.navbar-nav li {
+    padding: 0 12px;
+}
+
+.navbar-nav li a {
+    color: brown !important;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: right;
+    transition: 0.2s;
+
+
+}
+
+ 
+#home {
+    padding: 15px 0;
+    background-color: white;
+}
+
+#nice {
+    font-size: 25px;
+    color: brown;
+    font-weight: 600;
+    text-transform: capitalize;
+    padding-top: 20%;
+}
+
+#para {
+    padding-top: 10px;
+    opacity: 70%;
+    max-width: 100%;
+    width: 100%;
+}
+
+ 
+.btn {
+    background-color: brown;
+    color: white;
+    padding: 10px;
+    outline: none;
+    border-radius: 10px;
+    box-shadow: none;
+    border: none;
+    margin-bottom: 50px;
+    margin-top: 20px;
+
+
+}
+
+ 
+#explore {
+    background-color: brown;
+    width: 100%;
+    max-width: 100%;
+
+}
+
+
+#foods {
+    background-color: whitesmoke;
+    width: 100%;
+    max-width: 100%;
+    padding: 30px;
+}
+
+#about_us {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 600;
+    color: brown;
+    padding: 35px 2px 12px;
+}
+
+ 
+#title {
+    padding-top: 16%;
+    font-size: 25px;
+    color: brown;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+ 
